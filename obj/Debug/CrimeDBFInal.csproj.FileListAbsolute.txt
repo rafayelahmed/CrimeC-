@@ -1,0 +1,10 @@
+C:\Users\Rafayel\source\repos\CrimeDBFInal\CrimeDBFInal\obj\Debug\CrimeDBFInal.csprojAssemblyReference.cache
+C:\Users\Rafayel\source\repos\CrimeDBFInal\CrimeDBFInal\obj\Debug\CrimeDBFInal.Form1.resources
+C:\Users\Rafayel\source\repos\CrimeDBFInal\CrimeDBFInal\obj\Debug\CrimeDBFInal.Properties.Resources.resources
+C:\Users\Rafayel\source\repos\CrimeDBFInal\CrimeDBFInal\obj\Debug\CrimeDBFInal.csproj.GenerateResource.cache
+C:\Users\Rafayel\source\repos\CrimeDBFInal\CrimeDBFInal\obj\Debug\CrimeDBFInal.csproj.CoreCompileInputs.cache
+C:\Users\Rafayel\source\repos\CrimeDBFInal\CrimeDBFInal\bin\Debug\CrimeDBFInal.exe.config
+C:\Users\Rafayel\source\repos\CrimeDBFInal\CrimeDBFInal\bin\Debug\CrimeDBFInal.exe
+C:\Users\Rafayel\source\repos\CrimeDBFInal\CrimeDBFInal\bin\Debug\CrimeDBFInal.pdb
+C:\Users\Rafayel\source\repos\CrimeDBFInal\CrimeDBFInal\obj\Debug\CrimeDBFInal.exe
+C:\Users\Rafayel\source\repos\CrimeDBFInal\CrimeDBFInal\obj\Debug\CrimeDBFInal.pdb
