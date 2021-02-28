@@ -26,5 +26,13 @@ namespace CrimeDBFInal
         {
             textBox1.Text = "Rafayel Ahmed CD11";
         }
+
+
+        // new function added CD-12
+        private void tfn()
+        {
+            textBox1.Text = "tfn";
+        }
+
     }
 }
