@@ -35,5 +35,13 @@ namespace CrimeDBFInal
             //this is a test of vs code with new jira CD-13
         }
 
+           // new function added CD-15
+        private void CD15()
+        {
+            textBox1.Text = "CD-15";
+            //this is a test of vs code with new jira CD-13
+        }
+
+
     }
 }
