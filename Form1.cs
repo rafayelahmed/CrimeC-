@@ -34,5 +34,11 @@ namespace CrimeDBFInal
             textBox1.Text = "tfn";
         }
 
+        ////  added CD-14
+        private void CD14()
+        {
+            textBox1.Text = "CD-14";
+        }
+
     }
 }
